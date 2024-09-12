@@ -2,3 +2,8 @@
 ---
 Participantes: 
  - Eli
+ - Alejandro
+ - Mateo 
+ - Pablo
+
+ 
